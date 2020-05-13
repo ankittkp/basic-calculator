@@ -1,7 +1,7 @@
 
 # Basic Calculator app where we can calculate basic arithmetic operation using flutter.
 
-(./Screenshot.jpg "Screenshot")
+![](Screenshot.jpg)
 
 ## Getting Started
 
